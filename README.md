@@ -1,38 +1,30 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program is a cloud database software that connects to my Google Firestore Real-time Database. It is a simple student roster creation software, where students are placed into the database which can then be updated and deleted. 
 
-{Provide a description of the software that you wrote and how it integrates with a Cloud Database. Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/h1qJCdGOmK4)
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
+Google Firestore Real-time Database
 
-{Describe the structure of the database that you created.}
+The structure of the database that I used in this demonstration is a non-relational database
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Python
+Google Firestore - Real-time Database 
 
-{Describe the programming language that you used and any libraries.}
+I used the Firebase Python library to develop this software
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Pypi](https://pypi.org/project/firebase/)
+- [W3Schools](https://www.w3schools.com/python/)
+- [Firebase Documentation](https://firebase.google.com/docs/reference/admin/python)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- User Authentication
+- More database tables
+- GUI
